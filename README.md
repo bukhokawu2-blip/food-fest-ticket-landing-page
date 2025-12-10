@@ -57,8 +57,7 @@ Visit the link shown in the terminal, usually:
 http://localhost:5173/
 
 Screenshot
-
-![App Screenshot](food fest.png)
+![App Screenshot](food-fest.png)
 
 Technologies Used
 
